@@ -58,7 +58,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root.theme-dark {
+  :root {
     --main-font-family: Inter, sans-serif;
     --accent-font-family: "Press Start 2P", fantasy;
     --main-text-weight: 465;
